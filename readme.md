@@ -14,7 +14,7 @@ This is an experiment. If you use this code, there is a good chance you will see
 
 * AzureFileDrive requires the Dokan library to be installed, this can be downloaded from here: http://dokan-dev.net/en/download/#dokan 
 
-> For windows 8.x machine, run the installer in compatibility mode.
+> For a Windows 8.x machine, run the installer in compatibility mode.
 
 * Clone this repository and compile.
 * Set your connection string (as described below).
